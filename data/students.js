@@ -19,6 +19,13 @@ let students = [
         age: 19,
         course: "Software Engineering",
         email: "aman@example.com"
+    },
+    {
+        id: 4,
+        name: "Ankit",
+        age: 19,
+        course: "Data analyst",
+        email: "ankit@example.com"
     }
 ];
 
